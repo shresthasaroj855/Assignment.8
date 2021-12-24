@@ -1,0 +1,24 @@
+.red{
+    width: 50%;
+height: 400px;
+background-color: red;
+}
+
+.blue{
+width: 400px;
+height: 100px;
+background-color: blue;
+margin: auto;
+}
+.green{
+width: 400px;
+height: 200px;
+background-color: green;
+margin: auto;
+}
+.yellow{
+width: 400px;
+height: 100px;
+background-color: yellow;
+margin: auto;
+}
